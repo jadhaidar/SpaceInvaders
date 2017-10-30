@@ -1,4 +1,4 @@
-# SpaceInvaders
+# Space Invaders
 Simple variant of the classic Space Invaders game in Windows Forms using C#
 
 ## How to play
